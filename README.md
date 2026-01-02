@@ -36,6 +36,14 @@
 - Code editor (VS Code, PyCharm, or any text editor)
 - Git (optional but recommended)
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright © 2026 SuperF
+Copyright © 2026 Fan Xiangrun
+
+
 # Python 基础教程
 ## 📚 项目简介
 
@@ -73,3 +81,10 @@
 - Python 3.x
 - 代码编辑器（VS Code、PyCharm 或其他文本编辑器）
 - Git（可选但推荐）
+
+## 📄 许可证
+
+本项目采用 [MIT 许可证](LICENSE)。
+
+版权所有 © 2026 SuperF2023
+版权所有 © 2026 Fan Xiangrun
